@@ -6,7 +6,7 @@
 # Replace the URL below with the RAW URL of the 'openvpn-manager.sh' 
 # file from your GitHub repository or Gist.
 # ------------------------------------------------------------
-MANAGER_URL="https://raw.githubusercontent.com/firewallfalcons/openvpn/main/openvpn-manager.sh"
+MANAGER_URL="https://raw.githubusercontent.com/noelrubio143/ovpn/refs/heads/main/openvpn-manager.sh"
 # ------------------------------------------------------------
 
 INSTALL_PATH="/usr/local/bin/ovpn"
